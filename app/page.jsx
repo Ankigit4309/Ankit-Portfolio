@@ -86,7 +86,7 @@ const Home = () => {
                 initial="hidden"
                 whileInView={"show"}
                 viewport={{ once: false, amount: 0.2 }}
-                href="/assets/Ankit Kumar-Resume.pdf"
+                href="/assets/Ankit-Resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="View Ankit Kumar's Resume"
